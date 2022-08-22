@@ -1,8 +1,8 @@
 
 #IDEA  NUMERO 1
-## APLICACION PARA OPINIONES SOBRE PELICULAS
+## APLICACION PARA OPINIONES SOBRE PELICULAS`
 
-esta aplicacion se basa en clasificar los diferentes generos de peliculas y sobre ests subir diferes peliculas a los diferentes generos colocar una breve descripcion de cad auna de ellas y al fial pueden calificar si esta opinion o pequeña reseña le ayudo.
+esta aplicacion se basa en clasificar los diferentes generos de peliculas y sobre ests subir diferes peliculas a los diferentes generos colocar una breve descripcion de cad auna de ellas y al fial pueden calificar si esta opinion o pequeña reseña le ayudo.`
 
 # IDEA NUMERO 2
 ## APLICACION PARA GESTION DE TRABAJOS PARA UN ESTUDIANTES
