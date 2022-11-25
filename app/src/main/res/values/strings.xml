@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GuestHome</string>
+
+    <string name="hi">
+        <font fgcolor="#444444">No se ha registrado aún</font>
+        <font fgcolor="#000000">Únete Ahora</font>
+    </string>
+
+
+    <string name="title_activity_home">GuestHome</string>
+    <string name="title_home">GuestHome</string>
+    <string name="title_location">Mis Reservas</string>
+    <string name="title_hotels">Habitaciones</string>
+    <string name="title_account">Cuenta</string>
+
+    <string name="content">Hostal del Café</string>
+    <string name="content1">+10 Habitaciones</string>
+
+</resources>
